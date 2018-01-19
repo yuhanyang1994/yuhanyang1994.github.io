@@ -1,46 +1,8 @@
 [
-  {
-    "number":1,
-    "age":17
-  }
-  ,
-  {
-  "number":2,
-    "age":18
-  }
-  ,
-  {
-  "number":1,
-    "age":17
-  }
-  ,
-  {
-  "number":3,
-    "age":24
-  }
-  ,
-  {
-  "number":4,
-    "age":7
-  }
-  ,
-  {
-  "number":5,
-    "age":9
-  }
-  ,
-  {
-  "number":6,
-    "age":19
-  }
-  ,
-  {
-  "number":7,
-    "age":17
-  }
-  ,
-  {
-  "number":8,
-    "age":10
-  }
+  { "number":1,"age":13},
+  { "number": 2, "age":23},
+  { "number": 3, "age":33},
+  { "number": 4, "age":43},
+  { "number": 5, "age":9},
+  { "number": 6, "age":20}
 ]
